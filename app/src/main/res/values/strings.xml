@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="enable_location_title">Location Is Off</string>
+    <string name="enable_location_content">Please go to settings and enable your
+        location for better user experience</string>
+    <string name="enable_location_go_to_settings">Settings</string>
+    <string name="enable_location_close">Close</string>
+    <string name="double_back_press_text">Press back again to exit</string>
+    <string name="cities_list_fragment_title">World Weather</string>
+    <string name="server_error">Server error, please try again later</string>
+    <string name="server_error_user_location">Sorry we can\'t present your location\'s weather </string>
+
+    <string name="city_page_temp">Temp</string>
+    <string name="city_page_feels_like">Feels Like</string>
+    <string name="city_page_temp_min">Temp Min</string>
+    <string name="city_page_temp_max">Temp Max</string>
+    <string name="city_page_sunrise">Sunrise</string>
+    <string name="city_page_sunset">Sunset</string>
+</resources>
